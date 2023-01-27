@@ -1,4 +1,4 @@
-# CSCI-5828-HW1
+# CSCI-5828-HW2
 
 Homework 2 - No Silver Bullet
 
